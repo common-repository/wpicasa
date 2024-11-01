@@ -1,0 +1,22 @@
+#wpicasainstallform {
+ text-align: center;
+}
+
+#wpicasainstallform form {
+ margin: 0 auto 20px auto;
+ padding: 0;
+ width: 300px;
+ text-align: left;
+ border: 1px solid #DDD;
+}
+
+#wpicasainstallform label {
+ float: left;
+ width: 100px;
+ text-align: right;
+ margin: 5px 10px 5px 0;
+}
+
+#wpicasainstallform .submit {
+ margin: 10px;
+}
